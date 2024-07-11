@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  height: 100vh;
+  background-color: #CCC;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ .title {
+  color: Green;
+ }
+ 
+ .text {
+  font-size: 30px;
+ }
